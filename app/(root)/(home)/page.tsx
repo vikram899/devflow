@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => {
   console.log("Home from server comp");
-  return <div className="h1-bold">Home</div>;
+  return <div></div>;
 };
 
 export default Home;
